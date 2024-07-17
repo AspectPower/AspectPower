@@ -8,4 +8,6 @@
 
 → 𝐌𝐲 𝐖𝐨𝐫𝐤™ https://github.com/orgs/BaranAspect-Development/repositories
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AspectPower&theme=gruvbox-duo&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 ⁂ ꜱᴇᴇ ʏᴀ ʟᴀᴛᴇʀ!
