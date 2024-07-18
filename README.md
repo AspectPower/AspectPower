@@ -8,8 +8,4 @@
 
 → 𝐌𝐲 𝐖𝐨𝐫𝐤™ https://github.com/orgs/BaranAspect-Development/repositories
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AspectPower&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AspectPower&layout=compact)
-
 ⁂ ꜱᴇᴇ ʏᴀ ʟᴀᴛᴇʀ!
