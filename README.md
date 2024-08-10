@@ -11,5 +11,3 @@
 <a href="https://github.com/Aspectpower">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AspectPower&show_icons=true&theme=city_lights&line_height=27" alt="**AspectPower** github stats"/>
 </a>
-
-⁂ ꜱᴇᴇ ʏᴀ ʟᴀᴛᴇʀ!
