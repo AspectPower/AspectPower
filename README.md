@@ -8,6 +8,6 @@
 
 → 𝐌𝐲 𝐖𝐨𝐫𝐤™ https://github.com/orgs/BaranAspect-Development/repositories
 
-<a href="https://github.com/Aspectpower">
+<a href="https://github.com/AspectPower">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AspectPower&show_icons=true&theme=city_lights&line_height=27" alt="**AspectPower** github stats"/>
 </a>
